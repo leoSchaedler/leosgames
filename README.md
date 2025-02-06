@@ -1,4 +1,4 @@
-# Leo's games
+# Leo's Games
 Welcome to Leo's Games!
 
 Here you will find game projects I've developed throughout the years.
@@ -20,8 +20,8 @@ The very reason I'm able to write this readme file in English is gaming, I have 
 
 ---
 
-# Leo's games (PT-BR)
-Bem vindo(a) ao Leo's Games!
+# Leo's Games (PT-BR)
+Bem vindo(a) ao Jogos do Leo!
 
 Aqui você irá encontrar alguns projetos de jogos que eu desenolvi ao longo dos anos.
 Os primeiros três projetos que estarão disponíveis utilizam Java, C#, C++ e OpenGL em seu desenvolvimento, porém projetos futuros podem incluir diferentes linguagens e tecnologias.
