@@ -1,0 +1,15 @@
+E:\experiencia criativa\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.csprojAssemblyReference.cache
+E:\experiencia criativa\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip_Game.Form1.resources
+E:\experiencia criativa\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip_Game.Properties.Resources.resources
+E:\experiencia criativa\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.csproj.GenerateResource.cache
+E:\experiencia criativa\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.csprojAssemblyReference.cache
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip_Game.Form1.resources
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip_Game.Properties.Resources.resources
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.csproj.GenerateResource.cache
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\bin\Debug\BattleShip-Game.exe.config
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\bin\Debug\BattleShip-Game.exe
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\bin\Debug\BattleShip-Game.pdb
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.exe
+C:\Users\Lucas Eduardo\Desktop\BattleShip-Game\BattleShip-Game\obj\Debug\BattleShip-Game.pdb
